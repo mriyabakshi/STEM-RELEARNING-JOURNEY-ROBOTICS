@@ -8,13 +8,13 @@ This repo is my public learning record: the path I'm following, what I'm studyin
 
 | Phase | Focus | Status |
 | --- | --- | --- |
-| 1 | Math and physics basics — linear algebra, calculus, probability, rigid-body mechanics | ☐ Not started / ◐ In progress / ☑ Done |
-| 2 | Programming — Python and MATLAB, alongside the basics | ☐ Not started / ◐ In progress / ☑ Done |
-| 3 | Coursera Modern Robotics specialization (Northwestern) | ☐ Not started / ◐ In progress / ☑ Done |
-| 4 | Stanford PoRA (Principles of Robot Autonomy) + ROS | ☐ Not started / ◐ In progress / ☑ Done |
-| 5 | Healthcare-adjacent portfolio project | ☐ Not started / ◐ In progress / ☑ Done |
+| 1 | Math and physics basics — linear algebra, calculus, probability, rigid-body mechanics | ◐ In progress|
+| 2 | Programming — Python and MATLAB, alongside the basics | Matlab -◐ In progress / Python - ◐ In progress|
+| 3 | Coursera Modern Robotics specialization (Northwestern) | ◐ In progress |
+| 4 | Stanford PoRA (Principles of Robot Autonomy) + ROS | ☐ Not started |
+| 5 | Healthcare-adjacent portfolio project | ☐ Not started |
 
-**Currently working on:** _(fill this in — one line only)_
+**Currently working on:** _(Revisiting basics of Math and Physics, Coursera Modern Robotics started along with some MATLAB programming)_
 
 ## How this repo is organised
 
