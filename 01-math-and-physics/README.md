@@ -11,7 +11,7 @@
 
 ## Resources I'm using
 
-markdown
+
 | Topic | Resource | Link |
 | --- | --- | --- |
 | Arithmetic → Algebra | Khan Academy | (https://www.khanacademy.org) |
@@ -19,6 +19,14 @@ markdown
 | Calculus I & II | MIT OCW 18.01 & 18.02 | https://ocw.mit.edu |
 | Differential Equations | Paul’s Notes | https://tutorial.math.lamar.edu (tutorial.math.lamar.edu in Bing) |
 | Linear Algebra |	3Blue1Brown (visual) | https://www.3blue1brown.com |
+| Basics | Khan Academy Physics	| https://www.khanacademy.org |
+| College Physics | 	OpenStax College Physics |	https://openstax.org/details/books/college-physics (openstax.org in Bing) |
+| University Mechanics |	MIT OCW 8.01	| https://ocw.mit.edu |
+| Electricity & Magnetism | MIT OCW 8.02	| https://ocw.mit.edu |
+| Simulations	| PhET Interactive |	https://phet.colorado.edu |
+| Thermodynamics	| MIT OCW Thermodynamics	| https://ocw.mit.edu |
+| Fluid Mechanics |	MIT OCW Fluids |	https://ocw.mit.edu |
+| Strength of Materials |	MIT OCW Solid Mechanics |	https://ocw.mit.edu |
 
 ## Notes
 
